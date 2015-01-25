@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <User userId="9100" userName="c1" password="e10adc3949ba59abbe56e057f20f883e" userType="4" locked="2"/>
+    <User userId="9101" userName="c2" password="e10adc3949ba59abbe56e057f20f883e" userType="4" locked="2"/>
+    <User userId="9102" userName="c3" password="e10adc3949ba59abbe56e057f20f883e" userType="4" locked="2"/>
+	<Customer userId="9100" />
+	<Customer userId="9101" />
+	<Customer userId="9102" />
+</dataset>

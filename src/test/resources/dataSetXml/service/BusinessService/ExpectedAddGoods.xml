@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <Business userId="8000" bName="FanLi" bType="7" locked="0" capacity="100" used="1" ppm="30" balance="30"
+		information="sell fish!" phoneno="123456" weight="0"/>
+    <Goods goodsName="new Fish" sellerId="8000" goodsType="1" locked="0" discription="fresh fish"/>
+    
+</dataset>

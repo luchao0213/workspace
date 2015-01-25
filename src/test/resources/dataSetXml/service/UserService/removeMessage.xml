@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <Message msgId="1" senderId="9000" receiverId="8000" msgType="2" content="content1"/>
+    <Message msgId="2" senderId="9000" receiverId="8000" msgType="2" content="content"/>
+    <Message msgId="3" senderId="9000" receiverId="8000" msgType="2" content="conten3"/>
+</dataset>

@@ -1,0 +1,28 @@
+
+<style>
+.ui-header .ui-title, .ui-footer .ui-title {
+	margin-right: 0 !important;
+	margin-left: 0 !important;
+}
+
+.segmented-control {
+	text-align: center;
+}
+
+.segemtned-control .ui-controlgroup {
+	margin: 0.2em;
+}
+
+.ui-control-active, .ui-control-inactive {
+	border-style: solid;
+	border-color: gray;
+}
+
+.ui-control-active {
+	background: #BBB;
+}
+
+.ui-control-inactive {
+	background: #DDD;
+}
+</style>

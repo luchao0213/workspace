@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataSet>
+    <User userId="0" openId="doume" userName="doume" password="123456" userType="1" locked="0" lastVisit="2014-12-17 17:14:59" lastIp="123.123.123.1" />
+	<Goods goodsId="0" goodsName="VIRTUAL_GOODS" sellerId="0" goodsType="0" locked="0" discription="System" mediaId="goods-empty.jpg" price="1" creditPrice="1" retCredit="1" />    
+</DataSet>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataset>
+   <NewsComment userId="9000" targetId="8000" score="4" content="Good" />
+</dataset>
