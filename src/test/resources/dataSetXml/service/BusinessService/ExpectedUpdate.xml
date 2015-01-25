@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<dataset>
-    <BHomePage userId="8000" mediaId="home" />
-    <Location userId="8000" lng="0" lat="0" />
-    <Business userId="8000" bName="Fish2" bType="1" locked="0" capacity="100" used="50" ppm="30" balance="30"
-		information="Sell Fish" phoneno="0987654321" weight="0"/>
-</dataset>

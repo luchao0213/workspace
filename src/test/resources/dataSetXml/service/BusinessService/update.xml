@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<dataset>
-    <User userId="8000" userName="fanli" openId="fanli" password="e10adc3949ba59abbe56e057f20f883e"/>
-    <Location userId="8000" lng="0" lat="0" />
-    <BHomePage userId="8000" mediaId="home" />
-    <Business userId="8000" bName="fish" bType="1" locked="0" capacity="100" used="50" ppm="30" balance="30"
-		information="sell fish" phoneno="12345678901" weight="0"/>
-</dataset>
